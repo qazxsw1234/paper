@@ -1,1 +1,1 @@
-# etc
+# Just repo for ai research
