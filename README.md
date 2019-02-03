@@ -3,6 +3,20 @@
 
 ● Deep Reinforcement Learning, Yuxi Li (https://arxiv.org/pdf/1810.06339.pdf)
 
+[Reinforcement Learning]
+● Playing atari with deep reinforcement learning( https://arxiv.org/pdf/1312.5602.pdf )
+
+● Human- level control through deep reinforcement learning( https://www.nature.com/articles/nature14236/ )
+
+● IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures( https://arxiv.org/pdf/1802.01561.pdf )
+
+● Self- Imitation Learning ( http://proceedings.mlr.press/v80/oh18b/oh18b.pdf )
+
+● Policy Distillation (https://arxiv.org/pdf/1511.06295.pdf)
+
+● 
+
+● 
 
 
 [Optimization]
@@ -32,6 +46,14 @@
 
 ● Clear the Fog: Combat Value Assessment in Incomplete Information Games with Convolutional Encoder-Decoders(https://arxiv.org/ftp/arxiv/papers/1811/1811.12627.pdf)
 
+● deepmind - alphastar (https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+
+
+[Hierarchical Reinforcement Learning]
+
+● Hierarchical Reinforcement Learning for Multi-agent MOBA Game
+
 
 [SelfDriving]
 
+● End-to-end Driving via Conditional Imitation Learning
