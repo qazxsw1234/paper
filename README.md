@@ -5,6 +5,8 @@
 
 [Reinforcement Learning]
 
+● Basic for Reinforcement Learning (https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
+
 ● Playing atari with deep reinforcement learning( https://arxiv.org/pdf/1312.5602.pdf )
 
 ● Human- level control through deep reinforcement learning( https://www.nature.com/articles/nature14236/ )
