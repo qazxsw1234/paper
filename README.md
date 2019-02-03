@@ -1,9 +1,9 @@
 # Just repo for ai research
-[Deep Reinforcement Learning]
+##[Deep Reinforcement Learning]
 
 ● Deep Reinforcement Learning, Yuxi Li (https://arxiv.org/pdf/1810.06339.pdf)
 
-[Reinforcement Learning]
+##[Reinforcement Learning]
 ● Playing atari with deep reinforcement learning( https://arxiv.org/pdf/1312.5602.pdf )
 
 ● Human- level control through deep reinforcement learning( https://www.nature.com/articles/nature14236/ )
@@ -19,12 +19,12 @@
 ● 
 
 
-[Optimization]
+##[Optimization]
 
 ● Training Deep Networks without Learning Rates Through Coin Betting(https://arxiv.org/pdf/1705.07795.pdf)
 
 
-[StarCraft]
+##[StarCraft]
 
 ● StarCraft II: A New Challenge for Reinforcement Learning(https://arxiv.org/pdf/1708.04782.pdf)
 
@@ -49,11 +49,11 @@
 ● deepmind - alphastar (https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 
 
-[Hierarchical Reinforcement Learning]
+##[Hierarchical Reinforcement Learning]
 
 ● Hierarchical Reinforcement Learning for Multi-agent MOBA Game
 
 
-[SelfDriving]
+##[SelfDriving]
 
 ● End-to-end Driving via Conditional Imitation Learning
