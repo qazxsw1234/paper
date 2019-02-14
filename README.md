@@ -3,6 +3,7 @@
 
 ● Deep Reinforcement Learning, Yuxi Li (https://arxiv.org/pdf/1810.06339.pdf)
 
+
 [Reinforcement Learning]
 
 ● Basic for Reinforcement Learning (https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079)
@@ -25,6 +26,7 @@
 [Optimization]
 
 ● Training Deep Networks without Learning Rates Through Coin Betting(https://arxiv.org/pdf/1705.07795.pdf)
+
 
 
 [StarCraft]
@@ -50,11 +52,15 @@
 ● Clear the Fog: Combat Value Assessment in Incomplete Information Games with Convolutional Encoder-Decoders(https://arxiv.org/ftp/arxiv/papers/1811/1811.12627.pdf)
 
 ● deepmind - alphastar (https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+             AlphaStar: An Evolutionary Computation Perspective (https://arxiv.org/pdf/1902.01724.pdf)
+
 
 
 [Hierarchical Reinforcement Learning]
 
 ● Hierarchical Reinforcement Learning for Multi-agent MOBA Game
+
+
 
 
 [SelfDriving]
