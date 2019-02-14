@@ -54,6 +54,7 @@
 ● deepmind - alphastar (https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
              AlphaStar: An Evolutionary Computation Perspective (https://arxiv.org/pdf/1902.01724.pdf)
 
+● The StarCraft Multi-Agent Challenge(https://arxiv.org/pdf/1902.04043.pdf)
 
 
 [Hierarchical Reinforcement Learning]
