@@ -1,4 +1,10 @@
 # Just repo for ai research
+[DataSet]
+● Atari-HEAD: Atari Human Eye-Tracking and Demonstration Dataset( https://arxiv.org/pdf/1903.06754.pdf )
+
+
+
+
 [Deep Reinforcement Learning]
 
 ● Deep Reinforcement Learning, Yuxi Li (https://arxiv.org/pdf/1810.06339.pdf)
